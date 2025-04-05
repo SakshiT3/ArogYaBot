@@ -1,3 +1,31 @@
-# ArogYaBot
-To create a chatbot based on sklearn , a domain specific chatbot is implemented to assist users with their assistance.
-Due to covid, people avoid to go hospital and refer home-remedies and cure small problems like cough and cold in home itself. Also if person feeling tired because of his/her work but he/she thinks that I have some health issue so one can through our ArogYaBot as in hand response you get for your symptoms. Hospital has so many fees and not everyone can afford that so they can use ArogYaBot. The chatbot will provide personal and efficient communication with the user in order to manage their issues and get assistance when needed. 
+# 🤖 ArogYaBot – Health Chatbot Analysis
+ArogYaBot is an AI-powered health chatbot prototype designed to assist users with basic health-related queries. This project explores its functionality, intent classification, and user interaction handling using NLP techniques.
+
+## 💡 Project Highlights
+Intent Recognition: Utilized natural language processing (NLP) to classify user queries into relevant health intents.
+Response Generation: Created a simple rule-based system for generating appropriate responses.
+User Interaction Simulation: Demonstrated chatbot conversations through various health-related user inputs.
+Data Preprocessing: Cleaned and vectorized textual data for training.
+
+## 🛠️ Tools & Libraries
+Python
+Scikit-learn
+NumPy
+Pandas
+Jupyter Notebook
+
+## 📁 File Structure
+ArogYaBot.ipynb: Main Jupyter Notebook containing chatbot logic, data preprocessing, model training, and test cases.
+
+## 📌 Getting Started
+To run the notebook:
+
+Clone this repository.
+Install required libraries:
+pip install nltk scikit-learn pandas numpy jupyter
+Launch Jupyter Notebook and open ArogYaBot.ipynb
+
+## 🚀 Future Enhancements
+Integration with a front-end interface for live chatting.
+Use of deep learning models for improved intent classification.
+Inclusion of a broader health knowledge base.
