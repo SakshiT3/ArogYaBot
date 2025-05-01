@@ -29,3 +29,7 @@ Launch Jupyter Notebook and open ArogYaBot.ipynb
 Integration with a front-end interface for live chatting.
 Use of deep learning models for improved intent classification.
 Inclusion of a broader health knowledge base.
+
+DEMO: 
+![image](https://github.com/user-attachments/assets/a6a6a732-b308-417c-85b5-8f731bbdd209)
+
